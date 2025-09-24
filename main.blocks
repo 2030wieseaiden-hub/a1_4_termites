@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="wgNPa~h0hhhe7C`+nw1l">dfghjk</variable></variables><block type="device_pause" id="4L/Jy[4Ha))4(5;%2M{M" disabled-reasons="pxt_automatic_disabled" x="0" y="0"><value name="pause"><shadow type="timePicker" id="NwfUs#u9(4Yke]o[``%v" disabled-reasons="pxt_automatic_disabled"><field name="ms">100</field></shadow></value></block><block type="device_forever" id=";A_4z@NOznPyWp=3_d)#" x="-341" y="204"><comment pinned="false" h="80" w="160">When the micro:bit isn't shaking, a smiley face appears.</comment><statement name="HANDLER"><block type="device_show_leds" id=",C!k4k09b9j^y@dAl%%)"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="$^)D.%A(*D1BtY?uaSkQ"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block></xml>
